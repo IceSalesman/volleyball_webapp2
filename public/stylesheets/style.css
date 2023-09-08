@@ -6,3 +6,10 @@ body {
 a {
   color: #00B7FF;
 }
+
+.center {
+  border: 5px solid;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
